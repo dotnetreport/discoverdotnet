@@ -1,0 +1,12 @@
+SourceCode: https://github.com/dotnetreport/Ad-Hoc-Report-Builder-.net-core
+NuGet:
+  - https://www.nuget.org/packages/dotNetReport/
+Language: C#
+Image: https://dotnetreport.com/images/logo2.png
+Title: Ad Hoc Report Builder for .Net
+Description: A report builder solution for .net developers that lets them seamlessly integrate an ad hoc report builder for their end users
+Website: https://www.dotnetreport.com
+Docs: https://www.dotnetreport.com/kb
+Tags:
+  - report builder
+  - ad hoc reporting
